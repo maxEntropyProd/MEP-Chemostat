@@ -5,3 +5,5 @@ ODE solver is BiM from here: http://web.math.unifi.it/users/brugnano/BiM/
 
 Optimization is via hyperBOB found here: https://github.com/maxEntropyProd/hyperBOB, which uses BOBYQA, also here https://github.com/jacobwilliams/PowellOpt
 
+Latin hypercube sampling is from here: https://people.sc.fsu.edu/~jburkardt/f_src/latin_random/latin_random.html
+
