@@ -7,3 +7,5 @@ Optimization is via hyperBOB found here: https://github.com/maxEntropyProd/hyper
 
 Latin hypercube sampling is from here: https://people.sc.fsu.edu/~jburkardt/f_src/latin_random/latin_random.html
 
+Much of the output from the program is stored in Tecplot (https://tecplot.com/) binary files using tecio for plotting with Tecplot. The library included here was compiled for Rocky 8
+
