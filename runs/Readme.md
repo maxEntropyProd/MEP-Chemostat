@@ -1,0 +1,1 @@
+These are the input files (\*.inp) used for model runs in paper being written. Also included are the slurm scripts used to submit jobs to an HPC cluster as well as the Tecplot files (\*.lay) used to visualize model output.
